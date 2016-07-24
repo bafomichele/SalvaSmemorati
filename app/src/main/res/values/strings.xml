@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SalvaSmemorati</string>
+
+    <string-array name="spinnerTypes">
+        <item>Prelevare Contanti</item>
+        <item>Fare Rifornimento</item>
+        <item>Parcheggiare</item>
+        <item>Mangiare</item>
+        <item>Fare la Spesa</item>
+        <item>Fare Shopping</item>
+        <item>Comprare un Regalo</item>
+        <item>Comprare Farmaci</item>
+        <item>Spedire un oggetto</item>
+        <item>Cercare un Libro</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
